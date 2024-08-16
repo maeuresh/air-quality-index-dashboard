@@ -19,32 +19,33 @@ Key metrics such as the average levels of CO, NO, SO2, and PM2.5 are displayed p
 - Step 10: Plot the AQI trend over time using a line chart to show how air quality has changed from 2015 to 2020.
 - Step 11: Use a map visual to provide a geographical overview of AQI across different cities, making it easier to identify pollution hotspots.
 - Step 12: Add text boxes and shapes to enhance the visual design and provide context where necessary.
-Step 13: Publish the report to Power BI Service for easy access and sharing with stakeholders.
+- Step 13: Publish the report to Power BI Service for easy access and sharing with stakeholders.
 
 # Insights
 The dashboard provides the following key insights:
 
 ### [1] Top 3 Most Polluted Cities
-Ahmedabad: 452.12 AQI
-Delhi: 259.49 AQI
-Patna: 240.78 AQI
-These cities have critically high pollution levels and require immediate attention.
+- Ahmedabad: 452.12 AQI
+- Delhi: 259.49 AQI
+- Patna: 240.78 AQI
+- These cities have critically high pollution levels and require immediate attention.
 
 ### [2] Top 3 Least Polluted Cities
-Coimbatore: 73.02 AQI
-Shillong: 53.80 AQI
-Aizawl: 34.77 AQI
+- Coimbatore: 73.02 AQI
+- Shillong: 53.80 AQI
+- Aizawl: 34.77 AQI
 These cities have relatively low pollution levels, making them safer in terms of air quality.
 
 ### [3] Average Pollutant Levels
-CO: 2.25
-NO: 17.57
-SO2: 14.53
-PM2.5: 67.45
+- CO: 2.25
+- NO: 17.57
+- SO2: 14.53
+- PM 2.5: 67.45
 These averages provide a snapshot of the general air quality across the monitored cities.
 
 ### [4] AQI Trend Overview (2015-2020)
-There is a visible decline in AQI levels over the years, indicating efforts to improve air quality may be having a positive effect.
+- There is a visible decline in AQI levels over the years, indicating a decrease of air quality over the years.
+
 ### [5] Area-wise AQI Overview
-The geographical map provides an easy way to identify which regions of India are most affected by poor air quality.
+- The geographical map provides an easy way to identify which regions of India are most affected by poor air quality.
 
