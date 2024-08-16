@@ -49,3 +49,8 @@ These averages provide a snapshot of the general air quality across the monitore
 ### [5] Area-wise AQI Overview
 - The geographical map provides an easy way to identify which regions of India are most affected by poor air quality.
 
+# Snapshot of Dashboard
+
+
+ 
+ 
