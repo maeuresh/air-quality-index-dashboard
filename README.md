@@ -50,7 +50,4 @@ These averages provide a snapshot of the general air quality across the monitore
 - The geographical map provides an easy way to identify which regions of India are most affected by poor air quality.
 
 # Snapshot of Dashboard
-
-
- 
- 
+![dashboard](https://github.com/user-attachments/assets/a41453da-5021-47e3-a4b2-d34cabf33405)
