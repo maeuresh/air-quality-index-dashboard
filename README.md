@@ -34,14 +34,14 @@ The dashboard provides the following key insights:
 - Coimbatore: 73.02 AQI
 - Shillong: 53.80 AQI
 - Aizawl: 34.77 AQI
-These cities have relatively low pollution levels, making them safer in terms of air quality.
+- These cities have relatively low pollution levels, making them safer in terms of air quality.
 
 ### [3] Average Pollutant Levels
 - CO: 2.25
 - NO: 17.57
 - SO2: 14.53
 - PM 2.5: 67.45
-These averages provide a snapshot of the general air quality across the monitored cities.
+- These averages provide a snapshot of the general air quality across the monitored cities.
 
 ### [4] AQI Trend Overview (2015-2020)
 - There is a visible decline in AQI levels over the years, indicating a decrease of air quality over the years.
